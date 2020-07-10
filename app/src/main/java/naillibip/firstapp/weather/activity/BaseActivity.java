@@ -13,7 +13,6 @@ public abstract class BaseActivity extends AppCompatActivity {
     private static final String NameSharedPreference = "LOGIN";
     private static final String IsDarkTheme = "IS_DARK_THEME";
 
-
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

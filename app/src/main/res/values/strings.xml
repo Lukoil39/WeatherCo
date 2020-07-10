@@ -24,8 +24,6 @@
     <string name="updating">Updating the weather…</string>
     <string name="moscow">Moscow</string>
     <string name="spb">Saint Petersburg</string>
-    <string name="kazan">Kazan</string>
-    <string name="ptz">Petrozavodsk</string>
     <string name="add">add</string>
     <string name="remove">remove</string>
     <string name="choose_city_only_english">Choose city (only english)</string>
