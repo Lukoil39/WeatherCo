@@ -22,8 +22,6 @@
     <string name="updating">Обновляем погоду…</string>
     <string name="moscow">Москва</string>
     <string name="spb">Санкт-Петербург</string>
-    <string name="kazan">Казань</string>
-    <string name="ptz">Петрозаводск</string>
     <string name="add">Добавить</string>
     <string name="remove">Убрать</string>
     <string name="choose_city_only_english">Название города (только на английском)</string>
